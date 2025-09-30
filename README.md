@@ -25,7 +25,6 @@ python src/main.py
 4. 自行調整細流
 5. 自動檢查確定沒有問題
 6. 輸出為表格
-![螢幕擷取畫面 2025-09-26 024119](https://hackmd.io/_uploads/rkq_R-X3xl.jpg)
 
 
 ### 重點功能-Highlight
